@@ -1,2 +1,2 @@
 # notes
-# testing git-hub setup
+# testing github setup
